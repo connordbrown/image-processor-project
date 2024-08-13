@@ -859,7 +859,7 @@ void process_10_helper(const vector<vector<Pixel>>& image_vector)
 int main()
 {
     cout << endl;
-    cout << "CSPB 1300 Image Processing Application" << endl;
+    cout << "Image Processing Application" << endl;
     cout << endl;
     
     // prompt user for input file and check that file exists
