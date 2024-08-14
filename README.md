@@ -60,7 +60,7 @@ Enter menu selection (Q to quit): Q
 
 Goodbye.
 ```
-## images: before and after
+## image samples: before and after
 
 ![alt text](https://github.com/connordbrown/image-processor-project/blob/main/sample.bmp "Original Image")
 
