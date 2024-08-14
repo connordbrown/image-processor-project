@@ -1,5 +1,22 @@
 # image-processor-project
 
+## introduction
+
+This project is a C++ adaptation of some of the the Runestone Interactive image processing projects. It takes in a .bmp image, changes it
+in some way, and then outputs a new, alterned version of the origianl .bmp image. 
+
+## operation
+
+This application uses C++ 11 or later. Compile it with the following command:
+
+```bash
+g++ -std=c++11 Brown_main.cpp -o main
+```
+
+Then, run it:
+```bash
+./main
+```
 
 ## sample output
 ```text
