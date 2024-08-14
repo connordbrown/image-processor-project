@@ -60,8 +60,12 @@ Enter menu selection (Q to quit): Q
 
 Goodbye.
 ```
+## images: before and after
+
 ![alt text](https://github.com/connordbrown/image-processor-project/blob/main/sample.bmp "Original Image")
 
-## Author
+![alt text](https://github.com/connordbrown/image-processor-project/blob/main/output.bmp "Altered Image")
+
+## author
 
 This C++ adaptation was written by Connor D. Brown in 2024.
