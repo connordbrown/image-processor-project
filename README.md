@@ -60,3 +60,8 @@ Enter menu selection (Q to quit): Q
 
 Goodbye.
 ```
+![alt text](https://github.com/connordbrown/image-processor-project/blob/main/sample.bmp "Original Image")
+
+## Author
+
+This C++ adaptation was written by Connor D. Brown in 2024.
