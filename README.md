@@ -3,7 +3,7 @@
 ## introduction
 
 This project is a C++ adaptation of some of the the Runestone Interactive image processing projects. It takes in a .bmp image, changes it
-in some way, and then outputs a new, altered version of the origianl .bmp image. I wrote the image processing, helper, and main functions in Brown_main.cpp. The file processing functions, as well as the starter files, were provided.
+in some way, and then outputs a new, altered version of the origianl .bmp image. I wrote the image processing, helper, and main functions in Brown_main.cpp. The file processing functions, as well as the starter files, were provided in the project template.
 
 ## operation
 
